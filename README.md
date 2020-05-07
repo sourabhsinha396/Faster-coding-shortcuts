@@ -3,22 +3,22 @@ This contains the keyboard shortcuts that can speed up our coding speed by using
 
 <code>Removing the Last word: Ctrl+ Backspace</code>
 
-Selecting a word: ctrl+D
+<code>Selecting a word: ctrl+D</code>
 
-Selecting word by word: ctrl+shift+righ/left arrow
+<code>Selecting word by word: ctrl+shift+righ/left arrow</code>
 
-Copy Line: ctrl+C in vscode and ctrl+shift+D in sublime
+<code>Copy Line: ctrl+C in vscode and ctrl+shift+D in sublime</code>
 
-Cut a line: ctrl+X
+<code>Cut a line: ctrl+X</code>
 
-Search Text in all files: ctrl+shift+F
+<code>Search Text in all files: ctrl+shift+F</code>
 
-Selecting things inside brackets
+<code>Selecting things inside brackets</code>
 
-Move line Up: Alt+ Up Arrow
+<code>Move line Up: Alt+ Up Arrow</code>
 
-Selecting a word: ctrl+D (Vscode,Sublime)
+<code>Selecting a word: ctrl+D (Vscode,Sublime)</code>
 
-Multiple Cursor : Alt+ MouseClick (VScode) 
+<code>Multiple Cursor : Alt+ MouseClick (VScode) </code>
 
-Multiple Cursor : Ctrl+Click (Sublime)
+<code>Multiple Cursor : Ctrl+Click (Sublime)</code>
