@@ -1,7 +1,7 @@
 # Faster-coding-shortcuts
 This contains the keyboard shortcuts that can speed up our coding speed by using Keyboard Shortcuts
 
-Removing the Last word: Ctrl+ Backspace
+< font color="brown">Removing the Last word: Ctrl+ Backspace
 
 Selecting a word: ctrl+D
 
@@ -21,4 +21,4 @@ Selecting a word: ctrl+D (Vscode,Sublime)
 
 Multiple Cursor : Alt+ MouseClick (VScode) 
 
-Multiple Cursor : Ctrl+Click (Sublime)
+Multiple Cursor : Ctrl+Click (Sublime)</font>
