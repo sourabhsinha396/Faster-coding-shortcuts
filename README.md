@@ -7,13 +7,11 @@ This contains the keyboard shortcuts that can speed up our coding speed by using
 
 <code>Selecting word by word: ctrl+shift+righ/left arrow</code>
 
-<code>Copy Line: ctrl+C in vscode and ctrl+shift+D in sublime</code>
+<code>Copy Line: ctrl+C in vscode</code>
 
 <code>Cut a line: ctrl+X</code>
 
 <code>Search Text in all files: ctrl+shift+F</code>
-
-<code>Selecting things inside brackets</code>
 
 <code>Move line Up: Alt+ Up Arrow</code>
 
