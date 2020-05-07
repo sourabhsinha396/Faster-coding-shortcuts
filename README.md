@@ -1,7 +1,7 @@
 # Faster-coding-shortcuts
 This contains the keyboard shortcuts that can speed up our coding speed by using Keyboard Shortcuts
 
-< font color="brown">Removing the Last word: Ctrl+ Backspace
+<font color="brown">Removing the Last word: Ctrl+ Backspace
 
 Selecting a word: ctrl+D
 
