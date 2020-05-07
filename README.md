@@ -15,8 +15,6 @@ This contains the keyboard shortcuts that can speed up our coding speed by using
 
 <code>Move line Up: Alt+ Up Arrow</code>
 
-<code>Selecting a word: ctrl+D (Vscode,Sublime)</code>
-
 <code>Multiple Cursor : Alt+ MouseClick (VScode) </code>
 
 <code>Multiple Cursor : Ctrl+Click (Sublime)</code>
